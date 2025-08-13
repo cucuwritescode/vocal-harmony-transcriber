@@ -30,7 +30,7 @@ It’s designed for *practical accuracy* on clean recordings. Enough to produce 
 ## Example Use Cases  
 - **Everly Brothers**: Extract close, country-influenced two-part harmony for study or arrangement.  
 - **The Beatles / Beach Boys**: Capture pop vocal arrangements to learn harmonic movement.  
-- **Machaut motets**: Transcribe and analyze medieval double lines for contrapuntal study.  
+- **de Machaut motets**: Transcribe and analyze medieval double lines for contrapuntal study.  
 - **Original compositions**: Record your own lead + harmony parts and get instant notation.  
 
 ---
