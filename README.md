@@ -1,4 +1,4 @@
-# vocal-harmony-transcriber
+# Vocal Harmony Transcriber
 
 ## Motivation  
 This project comes from my obsession with vocal harmony. Recently, I’ve been listening to the Everly Brothers and Guillaume de Machaut interchangeably, both transcribing their arrangements and recording them by ear.  
